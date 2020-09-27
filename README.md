@@ -8,4 +8,4 @@
 
 3. [Make Over Monday - 2020/Week 34: Sexual and Reproductive Health and Rights (Tableau)](https://JuanPabloLoCoco.github.io/infovis/momw34.html)
 
-4. [TP Datos Personales (D3.js)](https://raw.githubusercontent.com/JuanPabloLoCoco/infovis/blob/gh-pages/TP%20Datos%20Personales/prev.png)
+4. TP Datos Personales (D3.js):[Visualization](https://observablehq.com/@juanpablolococo/datos-personales) - [Preview](https://JuanPabloLoCoco.github.io/infovis/TP%20Datos%20Personales/preview.png)
