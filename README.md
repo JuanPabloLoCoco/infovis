@@ -9,3 +9,8 @@
 3. [Make Over Monday - 2020/Week 34: Sexual and Reproductive Health and Rights (Tableau)](https://JuanPabloLoCoco.github.io/infovis/momw34.html)
 
 4. TP Datos Personales (D3.js):[Visualization](https://observablehq.com/@juanpablolococo/datos-personales) - [Preview](https://JuanPabloLoCoco.github.io/infovis/TP%20Datos%20Personales/preview.png)
+
+
+## Off the records
+
+1. Estadisticas Club España para juego Disney Sorceres Arena para movil (Observable con conexion a Spreedsheet de Google Drive). [Pagina](https://observablehq.com/@juanpablolococo/dsa-club-espana-analytics)
