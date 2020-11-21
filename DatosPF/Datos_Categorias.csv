@@ -1,0 +1,74 @@
+id,nombre,numero_magico_1,min_edad,max_edad,nro_magico_2,nro_magico_3,nro_magico_4,numero_magico_5,numero_magico_6
+9,Damas SUB 9,1,4,9,1,1,1,2,0
+11,Damas SUB 11,1,4,11,1,1,1,2,0
+13,Damas SUB 13,1,4,13,1,1,1,2,0
+14,Damas SUB 13 Prom,1,4,13,1,1,1,2,0
+15,Damas SUB 15,1,4,15,1,1,1,2,0
+18,Damas SUB 18,1,4,18,1,1,1,1,0
+23,Damas SUB 23,1,4,23,1,1,1,1,0
+35,Damas MAXI 35,1,35,999,2,1,1,2,0
+50,Damas MAXI 50,1,50,999,2,1,1,2,0
+60,Damas MAXI 60,1,60,999,2,1,1,2,0
+70,Damas MAXI 70,1,70,999,2,1,1,2,0
+99,Dam.(Todo Competidor),1,4,999,3,1,2,2,0
+109,Caballeros SUB 9,3,4,9,1,1,1,2,0
+111,Caballeros SUB 11,3,4,11,1,1,1,2,0
+113,Caballeros SUB 13,3,4,13,1,1,1,2,0
+114,Caballeros SUB 13 Prom,3,4,13,1,1,1,2,0
+115,Caballeros SUB 15,3,4,15,1,1,1,2,0
+118,Caballeros SUB 18,3,4,18,1,1,1,1,0
+123,Caballeros SUB 23,3,4,23,1,1,1,1,0
+135,Caballeros MAXI 35,3,35,999,2,1,1,2,0
+140,Caballeros MAXI 40,3,40,999,2,1,1,2,0
+145,Caballeros MAXI 45,3,45,999,2,1,1,2,0
+150,Caballeros MAXI 50,3,50,999,2,1,1,2,0
+155,Caballeros MAXI 55,3,55,999,2,1,1,2,0
+160,Caballeros MAXI 60,3,60,999,2,1,1,2,0
+165,Caballeros MAXI 65,2,65,999,2,1,1,2,0
+170,Caballeros MAXI 70,2,70,999,2,1,1,2,0
+175,Caballeros MAXI 75,2,75,999,2,1,1,2,0
+199,Cab.(Todo Competidor),3,4,999,3,1,2,2,0
+211,Dob.Dam.SUB 11,1,4,11,1,2,3,1,0
+213,Dob.Dam.SUB 13,1,4,13,1,2,3,1,0
+218,Dob.Dam.SUB 18,1,4,18,1,2,3,1,0
+235,Dob.Dam.MAXI 35,1,35,999,2,2,3,1,0
+250,Dob.Dam.MAXI 50,1,50,999,2,2,3,1,0
+299,Dob.Dam.Mayores,1,4,999,3,2,3,1,0
+309,Dob.Cab.SUB 9,2,4,9,1,2,3,1,0
+311,Dob.Cab.SUB 11,2,4,11,1,2,3,1,0
+313,Dob.Cab.SUB 13,2,4,13,1,2,3,1,0
+315,Dob.Cab.SUB 15,2,4,15,1,2,3,1,0
+318,Dob.Cab.SUB 18,2,4,18,1,2,3,1,0
+323,Dob.Cab.SUB 23,2,4,23,1,2,3,1,0
+335,Dob.Cab.MAXI 35,2,35,999,2,2,3,1,0
+345,Dob.Cab.MAXI 45,2,45,999,2,2,3,1,0
+355,Dob.Cab.MAXI 55,2,55,999,2,2,3,1,0
+365,Dob.Cab.MAXI 65,2,65,999,2,2,3,1,0
+399,Dob.Cab.Mayores,2,4,999,3,2,3,1,0
+413,Dob.Mix.SUB 13,3,4,13,1,4,3,1,0
+418,Dob.Mix.SUB 18,3,4,18,1,4,3,1,0
+435,Dob.Mix.MAXI 35,3,35,999,2,4,3,1,0
+450,Dob.Mix.MAXI 50,3,50,999,2,4,3,1,0
+499,Dob.Mix.Mayores,3,4,999,3,4,3,1,0
+511,Equ.Dam.SUB 11,1,4,11,1,3,1,1,2
+513,Equ.Dam.SUB 13,1,4,13,1,3,1,1,3
+515,Equ.Dam.SUB 15,1,4,15,1,3,1,1,4
+518,Equ.Dam.SUB 18,1,4,18,1,3,1,1,5
+535,Equ.Dam.MAXI 35,1,35,999,2,3,1,1,11
+550,Equ.Dam.MAXI 50,1,50,999,2,3,1,1,14
+599,Equ.Dam.Mayores,1,4,999,3,3,1,1,19
+609,Equ.Cab.SUB 9,3,4,9,1,3,1,1,21
+611,Equ.Cab.SUB 11,2,4,11,1,3,1,2,22
+613,Equ.Cab.SUB 13,2,4,13,1,3,1,1,23
+615,Equ.Cab.SUB 15,2,4,15,1,3,1,1,24
+618,Equ.Cab.SUB 18,2,4,18,1,3,1,1,25
+623,Equ.Cab.SUB 23,2,4,23,1,3,1,1,26
+635,Equ.Cab.MAXI 35,2,35,999,2,3,1,1,31
+640,Equ.Cab.MAXI 40,2,40,999,2,3,1,1,32
+645,Equ.Cab.MAXI 45,2,45,999,2,3,1,1,33
+650,Equ.Cab.MAXI 50,2,50,999,2,3,1,1,34
+655,Equ.Cab.MAXI 55,2,55,999,2,3,1,1,35
+660,Equ.Cab.MAXI 60,2,60,999,2,3,1,1,36
+665,Equ.Cab.MAXI 65,2,65,999,2,3,1,1,37
+670,Equ.Cab.MAXI 70,2,70,999,2,3,1,1,38
+699,Equ.Cab.Mayores,3,4,999,3,3,1,1,39
