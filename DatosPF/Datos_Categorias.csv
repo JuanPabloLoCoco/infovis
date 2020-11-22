@@ -1,4 +1,4 @@
-id,nombre,numero_magico_1,min_edad,max_edad,nro_magico_2,nro_magico_3,nro_magico_4,numero_magico_5,numero_magico_6
+id,nombre,numero_magico_1,min_edad,max_edad,nro_magico_2,modalidad,nro_magico_4,numero_magico_5,numero_magico_6
 9,Damas SUB 9,1,4,9,1,1,1,2,0
 11,Damas SUB 11,1,4,11,1,1,1,2,0
 13,Damas SUB 13,1,4,13,1,1,1,2,0
