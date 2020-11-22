@@ -1,4 +1,4 @@
-Id,nombre,campo_vacio,dni,domicilio,nro_magico_1,fecha_nacimiento,ciudad_origen,na2,nro_magico_2,telefono_contacto,mail_contacto,id_afiliada
+Id,nombre,campo_vacio,dni,domicilio,sexo,fecha_nacimiento,ciudad_origen,na2,nro_magico_2,telefono_contacto,mail_contacto,id_afiliada
 7,PIRUZI Fabrizio,1,35663763,,2,1990-06-12,San Rafael,0,12,542604004487,fabrizio.piruzi@gmail.com,3
 15,KOATZ Pablo,1,31175255,,2,1984-08-30,Banfield,0,1,,pablokoatz@gmail.com,5
 16,MERCADE Santiago,1,0,,2,2014-07-11,Castelar,0,1,,competencias@fatm.org.ar,5
