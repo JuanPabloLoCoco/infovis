@@ -1,4 +1,4 @@
-RESULTADOS,id_categoria,instancia,nro_partido,id_x,nombre_jugador_x,,dif_ranking,new_rank,id_b,bombre_jugador_b,rating_b,dif_rating_b,nuevo_rating_b,set_1_x,set_1_y,set_2_x,set_2_y,set_3_x,set_3_y,set_4_x,set_4_y,set_5_x,set_5_y,res_x,res_y,fecha,mesa,hora
+RESULTADOS,id_categoria,instancia,nro_partido,id_x,nombre_jugador_x,,dif_ranking,new_rank,id_b,nombre_jugador_y,rating_y,dif_rating_y,nuevo_rating_y,set_1_x,set_1_y,set_2_x,set_2_y,set_3_x,set_3_y,set_4_x,set_4_y,set_5_x,set_5_y,res_x,res_y,fecha,mesa,hora
 143,11,101,1,3716,"SHAHMURADYAN, MARIAM",935.0,5.5,940.5,3868,"ZENTENO, LUCIANA",900.0,-5.5,894.5,11,4,11,7,11,3,0,0,0,0,3,0,2019-08-24,6,13.30
 143,11,101,2,3397,"FRAGAPANE, FRANCESCA",900.0,-6.0,894.0,3869,"RIOS, LUDMILA",900.0,6.0,906.0,3,11,8,11,6,11,0,0,0,0,0,3,2019-08-24,6,13.30
 143,11,101,3,3868,"ZENTENO, LUCIANA",894.5,6.0,900.5,3869,"RIOS, LUDMILA",906.0,-6.0,900.0,7,11,11,4,9,11,11,7,11,6,3,2,2019-08-24,6,13.30
